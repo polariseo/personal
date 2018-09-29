@@ -861,7 +861,7 @@ namespace DXApplication7
                     num++;
                 }
             }
-
+            /*************************************************************/
             width = images[1].Width;
             height = images[1].Height;
             FirPic.Image = images[1];
